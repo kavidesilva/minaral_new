@@ -1,0 +1,38 @@
+.element.style {
+    width: 70px !important;
+}
+
+ 
+.body { 
+        background: green; 
+    } 
+  
+    h1 { 
+        display: flex; 
+        justify-content: center; 
+        color: rgb(0, 0, 0); 
+    } 
+  
+    span::before { 
+        content: "Geeks"; 
+        animation: animate infinite 3s; 
+        padding-left: 10px; 
+    } 
+  
+    @keyframes animate { 
+  
+        0% { 
+            content: "Geeks"; 
+        } 
+  
+        50% { 
+            content: "for"; 
+        } 
+  
+        75% { 
+            content: "Geeks"; 
+        } 
+    } 
+
+
+    
