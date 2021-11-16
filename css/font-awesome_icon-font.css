@@ -609,12 +609,15 @@
 }
 .fa-twitter:before {
 	content: "\f099";
+	color: #eeeeee;
 }
 .fa-facebook-f:before, .fa-facebook:before {
 	content: "\f09a";
+	color: #eeeeee;
 }
 .fa-github:before {
 	content: "\f09b";
+	color: #eeeeee;
 }
 .fa-unlock:before {
 	content: "\f09c";
@@ -741,6 +744,7 @@
 }
 .fa-google-plus:before {
 	content: "\f0d5";
+	color: #eeeeee;
 }
 .fa-money:before {
 	content: "\f0d6";
@@ -774,6 +778,7 @@
 }
 .fa-linkedin:before {
 	content: "\f0e1";
+	color: #eeeeee;
 }
 .fa-rotate-left:before, .fa-undo:before {
 	content: "\f0e2";
