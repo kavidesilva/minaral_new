@@ -50,7 +50,7 @@ you can use the generic selector below, but it's slower:
 }
 .icon-phone:before {
 	content: "\e004";
-	color: #000;
+	color: rgb(255, 255, 255);
 }
 .icon-document:before {
 	content: "\e005";
@@ -159,7 +159,7 @@ you can use the generic selector below, but it's slower:
 }
 .icon-envelope:before {
 	content: "\e028";
-	color: black;
+	color: rgb(255, 255, 255);
 }
 .icon-streetsign:before {
 	content: "\e029";
@@ -253,7 +253,7 @@ you can use the generic selector below, but it's slower:
 }
 .icon-map-pin:before {
 	content: "\e047";
-	color: black;
+	color: rgb(255, 255, 255);
 }
 .icon-dial:before {
 	content: "\e048";

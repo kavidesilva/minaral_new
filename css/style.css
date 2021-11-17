@@ -77,7 +77,7 @@ body {
 	width: 100%;
 }
 .black-bg {
-	background-color: #e07e3f;
+	background-color: #000000c7;
 }
 .gray-bg {
 	background-color: #000000;
@@ -468,6 +468,7 @@ p.lead-lg {
 	font-size: 20px;
 	font-weight: 300;
 	margin-bottom: 20px;
+	
 }
 p.white, p.small.white, p.large.white, p.lead.white, p .white, .white {
 	color: #ffffff;
@@ -1671,7 +1672,7 @@ form label.error {
 	-webkit-transition: all 0.27s cubic-bezier(0, 0, 0.58, 1) 0s;
 }
 .header.header-prepare, .header.header-light.header-prepare {
-	background-color: rgba(255, 255, 255, 0.95);
+	background-color: rgba(0, 0, 0, 0.95);
 	border-bottom: 1px solid #f0f0f0;
 }
 .header.header-dark.header-prepare {
