@@ -80,7 +80,8 @@ body {
 	background-color: #000000c7;
 }
 .gray-bg {
-	background-color: #000000;
+	background-color: #84835e;
+    
 }
 .white-bg {
 	background-color: #FFF;
@@ -1665,7 +1666,7 @@ form label.error {
 	z-index: 1000;
 	color: #fff;
 	width: 100%;
-	height: 85px;
+	height: 97px;
 	transition: all 0.27s cubic-bezier(0, 0, 0.58, 1) 0s;
 	-o-transition: all 0.27s cubic-bezier(0, 0, 0.58, 1) 0s;
 	-moz-transition: all 0.27s cubic-bezier(0, 0, 0.58, 1) 0s;
@@ -1721,7 +1722,7 @@ form label.error {
 
     /*header nav style*/
     .header.header-prepare .nav-menu ul.nav-menu-inner > li > a {
- color: rgba(255, 255, 255, 0.871);
+ color: rgba(0, 0, 0, 0.871);
 }
  .header.header-prepare .nav-menu ul.nav-menu-inner > li:hover > a,  .header.header-prepare .nav-menu ul.nav-menu-inner > li > a:hover {
  color: rgba(34, 34, 34, 1);
@@ -2801,7 +2802,7 @@ ul.icon-tab-nav li, .icon-tab-nav ul li {
 	text-align: center;
 }
 .client-logo img {
-	height: 93%;
+	height: 60%;
 }
 /*------------------------------------------------------------------*/
 /* Social */
